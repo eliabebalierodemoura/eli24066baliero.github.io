@@ -1,0 +1,5 @@
+﻿4 / 5)
+ The interfaces and abstract classes, in my conception is similar, but in interface i can just input methods and inherit it, but you can not 
+have a constructor insid of this interface, whereas abstract you can have a constructor with properties.
+A interface you can iherite its methods to organaize your class , and in a abstract you can iherit its proerties 
+in other to avoid rewrite a properti that you already have.

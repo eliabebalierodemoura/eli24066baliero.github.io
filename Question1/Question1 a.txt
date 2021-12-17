@@ -1,0 +1,7 @@
+﻿Question 1:
+a ) Wahat does it mean to declare a class sealed?
+the Sealed is used to stop a class to be inherited , i will try this examplefor if have a abstract class
+in my program and i want to make a heritage i will be nnot allowed.
+
+
+

@@ -1,0 +1,4 @@
+﻿3)
+A statitic menber varibles i undertand as a values that i can assing and i can use this values inside
+of my static methods, EX: When i defined values insid this methods i can inherit its values 
+and use in differents ways to organize my class.

@@ -1,0 +1,5 @@
+﻿Write notes on the follow therms:
+1)
+The inheritance is more known as parent and child class we can inherit values, of one 
+abstract class for Example if i have  properties in a constructor such : strin name i can 
+take this values.

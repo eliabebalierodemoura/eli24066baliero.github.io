@@ -1,0 +1,3 @@
+﻿2)
+Polymorphism is one concept with an action in different ways can be performed.
+if i have a object for example "car" i can use this object as a bus or motorcycle for example.
